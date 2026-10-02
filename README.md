@@ -68,6 +68,14 @@ Express serves the built React app, so the whole site runs as one web service (R
 - **Start:** `npm start`
 - **Environment:** `GROQ_API_KEY`, `MONGODB_URI` (MongoDB Atlas), `TRUST_PROXY=true`
 
+### Vercel
+
+`vercel.json` serves the React build as static files and runs Express as a serverless function
+(`api/index.js`) for every `/api/*` request.
+
+- **Root Directory:** the repo root (not `client`), so Vercel reads `vercel.json`
+- **Environment Variables:** `GROQ_API_KEY`, `MONGODB_URI` (MongoDB Atlas); redeploy after adding them
+
 Never commit `server/.env`: it's in `.gitignore`.
 
 ## How the AI stays truthful
