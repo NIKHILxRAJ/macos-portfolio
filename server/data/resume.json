@@ -1,0 +1,143 @@
+{
+  "name": "Nikhil Raj",
+  "title": "Full Stack Developer | Software Development Engineer (SDE)",
+  "location": "Indore, Madhya Pradesh - India",
+  "summary": "",
+  "contact": {
+    "email": "raj.nikhilraj333@gmail.com",
+    "phone": "+91 9334760703",
+    "github": "https://github.com/NIKHILxRAJ",
+    "linkedin": "https://www.linkedin.com/in/nikhil-raj-3b8158281/",
+    "leetcode": "https://leetcode.com/u/QLexKvTs2m/",
+    "twitter": "https://x.com/_Nikhil_Ra_j",
+    "website": ""
+  },
+  "skills": {
+    "Languages": [
+      "C++",
+      "JavaScript",
+      "Python"
+    ],
+    "Frameworks & Libraries": [
+      "Node.js",
+      "Express.js",
+      "React"
+    ],
+    "Databases": [
+      "MySQL",
+      "MongoDB"
+    ],
+    "Cloud": [
+      "AWS",
+      "Oracle Cloud Infrastructure (OCI)"
+    ],
+    "Core CS": [
+      "Data Structures & Algorithms",
+      "Object-Oriented Programming (OOP)",
+      "DBMS",
+      "Operating Systems",
+      "Computer Networks",
+      "REST API",
+      "JWT Authentication"
+    ]
+  },
+  "experience": [],
+  "projects": [
+    {
+      "name": "Coding Platform",
+      "tech": [
+        "Express",
+        "Node.js",
+        "MongoDB",
+        "React",
+        "Redis"
+      ],
+      "description": "",
+      "highlights": [
+        "Built a full-stack coding platform for practicing and solving DSA problems, with problem creation, submission, and automated evaluation.",
+        "Implemented secure user authentication and authorization for personalized, session-based access.",
+        "Designed problem-creation module supporting structured descriptions and constraints.",
+        "Developed automated code submission and test-case validation pipeline to evaluate user solutions in real time.",
+        "Added real-time problem-count tracking to improve user navigation and engagement."
+      ],
+      "github": "https://github.com/NIKHILxRAJ/LeetCodeClone",
+      "live": ""
+    },
+    {
+      "name": "VizuCode - LeetCode Visualizer",
+      "tech": [
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "JWT"
+      ],
+      "description": "",
+      "highlights": [
+        "Built an interactive visualizer for 300+ LeetCode questions across 16 categories, with step-by-step algorithm traces synced to C++/Java source code.",
+        "Designed 10 reusable visualization templates (binary search, arrays, trees/graphs, DP grids, heaps, linked lists) with transport controls and tag-synced code highlighting.",
+        "Developed a REST API with JWT authentication and per-user progress tracking; frontend falls back to local data if the API is unavailable.",
+        "Hardened the API with rate limiting, input validation, and security headers; added persisted light/dark theming."
+      ],
+      "github": "https://github.com/NIKHILxRAJ/vizucode",
+      "live": "https://vizucode.site/"
+    },
+    {
+      "name": "Threads Clone",
+      "tech": [
+        "React",
+        "Redux Toolkit",
+        "Material UI",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "JWT",
+        "Cloudinary"
+      ],
+      "description": "An online social media application where users can share photos, like different posts and repost them.",
+      "highlights": [
+        "Built a Threads-style social media app where users share posts with photos, like posts and repost them.",
+        "Implemented sign-up and login with bcrypt password hashing and JWT authentication on an Express + MongoDB (Mongoose) backend.",
+        "Handled photo uploads with Cloudinary and modelled users, posts and comments with followers, likes, replies and reposts.",
+        "Built the React frontend with Redux Toolkit and Material UI: home feed, single-post view with comments, user search, and profile tabs for threads, replies and reposts."
+      ],
+      "github": "https://github.com/NIKHILxRAJ/thread-clone",
+      "live": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering - Computer Science Engineering",
+      "institution": "Institute of Engineering and Technology, Devi Ahilya Vishwavidyalaya",
+      "location": "Indore, India",
+      "start": "August 2023",
+      "end": "June 2027",
+      "score": "CGPA: 6.5"
+    },
+    {
+      "degree": "12th Standard - Senior Secondary School",
+      "institution": "O.P. Jindal School",
+      "location": "Ramgarh, India",
+      "start": "",
+      "end": "April 2022",
+      "score": "71.8%"
+    },
+    {
+      "degree": "10th Standard - Higher Secondary School",
+      "institution": "D.A.V Public School",
+      "location": "Ramgarh, India",
+      "start": "",
+      "end": "April 2020",
+      "score": "70.4%"
+    }
+  ],
+  "achievements": [
+    "300+ DSA questions — LeetCode, GeeksforGeeks, etc."
+  ],
+  "certifications": [
+    "Oracle Cloud Infrastructure Architect Associate (2026) — Oracle",
+    "Ultimate AWS Certified Cloud Practitioner CLF-C02 2026 — Udemy, Stephane Maarek",
+    "The Complete Python Bootcamp — Udemy, Jose Portilla",
+    "Namaste DSA — NamasteDev, Akshay Saini"
+  ]
+}

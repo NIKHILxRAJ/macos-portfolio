@@ -1,0 +1,16 @@
+{
+  "_help": "Add images to this folder and list them here. album groups photos in the sidebar; favourite: true adds them to Favourites.",
+  "photos": [
+    {
+      "src": "/gallery/vizucode-home.jpg",
+      "caption": "VizuCode – LeetCode Visualizer · sign-in page (desktop), live at vizucode.site",
+      "album": "Projects",
+      "favourite": true
+    },
+    {
+      "src": "/gallery/vizucode-mobile.jpg",
+      "caption": "VizuCode – LeetCode Visualizer · sign-in page (mobile)",
+      "album": "Projects"
+    }
+  ]
+}
